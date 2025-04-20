@@ -1,3 +1,3 @@
-# pianfan.github.io
+# tianhang-wang.github.io
 
 My Personal Blog via GitHub
